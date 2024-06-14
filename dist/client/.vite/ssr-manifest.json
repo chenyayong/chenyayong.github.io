@@ -1,0 +1,20 @@
+{
+  "\u0000plugin-vue:export-helper": [],
+  "\u0000vite/modulepreload-polyfill.js": [],
+  "\u0000vite:asset:public/vite.svg": [],
+  "index.html": [],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "src/App.vue": [],
+  "src/App.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/App.vue?vue&type=style&index=0&scoped=086e6a54&lang.css": [],
+  "src/assets/vue.svg": [],
+  "src/components/HelloWorld.vue": [],
+  "src/components/HelloWorld.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/HelloWorld.vue?vue&type=style&index=0&scoped=8fe7e3eb&lang.css": [],
+  "src/entry-client.ts": [],
+  "src/main.ts": [],
+  "src/style.css": []
+}
